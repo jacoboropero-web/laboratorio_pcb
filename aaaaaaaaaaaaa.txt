@@ -1,0 +1,24 @@
+Info: Procesando el símbolo 'BT2:Battery:BatteryHolder_Keystone_1058_1x2032'.
+Info: Procesando el símbolo 'D1:LED_THT:LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm'.
+Info: Procesando el símbolo 'D2:LED_THT:LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm'.
+Info: Procesando el símbolo 'R1:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Procesando el símbolo 'R2:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Procesando el símbolo 'SW2:Button_Switch_THT:SW_TH_Tactile_Omron_B3F-100x'.
+Huella D1 cambiada de 'LED_SMD:LED_0805_2012Metric' a 'LED_THT:LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm'.
+Actualizar campos D1.
+Se actualizaron los metadatos de unidad de D1.
+Huella D2 cambiada de 'LED_SMD:LED_0805_2012Metric' a 'LED_THT:LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm'.
+Actualizar campos D2.
+Se actualizaron los metadatos de unidad de D2.
+Huella R1 cambiada de 'Resistor_SMD:R_0805_2012Metric' a 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Actualizar campos R1.
+Se actualizaron los metadatos de unidad de R1.
+Huella R2 cambiada de 'Resistor_SMD:R_0805_2012Metric' a 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Actualizar campos R2.
+Se actualizaron los metadatos de unidad de R2.
+Huella SW2 cambiada de 'Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG' a 'Button_Switch_THT:SW_TH_Tactile_Omron_B3F-100x'.
+Actualizar campos SW2.
+Se actualizaron los metadatos de unidad de SW2.
+
+
+Info: Número de avisos: 0, errores: 0.

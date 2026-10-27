@@ -1,0 +1,14 @@
+Info: Procesando el símbolo 'BT2:Button_Switch_THT:SW_Slide_SPDT_Angled_CK_OS102011MA1Q'.
+Info: Procesando el símbolo 'D1:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'D2:LED_THT:LED_D5.0mm'.
+Info: Procesando el símbolo 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'SW2:Button_Switch_THT:SW_NKK_GW12LJP'.
+Aviso: No se encontró red para el componente BT2 pad 3 (no hay pin 3 en el símbolo).
+Aviso: No se encontró red para el componente SW2 pad 4 (no hay pin 4 en el símbolo).
+Aviso: No se encontró red para el componente SW2 pad 5 (no hay pin 5 en el símbolo).
+Aviso: No se encontró red para el componente SW2 pad 3 (no hay pin 3 en el símbolo).
+Aviso: No se encontró red para el componente SW2 pad 6 (no hay pin 6 en el símbolo).
+
+
+Info: Número de avisos: 5, errores: 0.

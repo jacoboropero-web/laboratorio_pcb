@@ -1,0 +1,75 @@
+Info: Procesando el símbolo 'BT2:Battery:BatteryHolder_Keystone_1058_1x2032'.
+Info: Procesando el símbolo 'D2:LED_SMD:LED_0805_2012Metric'.
+Info: Procesando el símbolo 'D1:LED_SMD:LED_0805_2012Metric'.
+Info: Procesando el símbolo 'R1:Resistor_SMD:R_0805_2012Metric'.
+Info: Procesando el símbolo 'R2:Resistor_SMD:R_0805_2012Metric'.
+Info: Procesando el símbolo 'SW2:Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG'.
+Valor BT2 cambiado de BatteryHolder_Keystone_1058_1x2032 a Battery_Cell.
+Asociación de símbolos BT2 actualizada de  a /84ac79d2-db5a-4107-b3df-3eda8b84749b.
+Actualizar campos BT2.
+Se actualizó el nombre de la hoja BT2 a '/'.
+Se actualizó el archivo de hoja BT2 a 'holapcb.kicad_sch'.
+BT2 pin 1 conectado a Net-(BT2-+).
+BT2 pin 2 conectado a Net-(BT2--).
+Se actualizaron los metadatos de unidad de BT2.
+Agregado D1 (huella 'LED_SMD:LED_0805_2012Metric').
+Indicador de referencia cambiado de REF** a D1.
+Valor D1 cambiado de LED_0805_2012Metric a LED.
+Asociación de símbolos D1 actualizada de  a /63e8323c-ef0c-411d-a391-e4a53169cb15.
+Actualizar campos D1.
+Se actualizó el nombre de la hoja D1 a '/'.
+Se actualizó el archivo de hoja D1 a 'holapcb.kicad_sch'.
+Se actualizaron los filtros de huella de D1 a 'LED* LED_SMD:* LED_THT:*'.
+D1 pin 2 conectado a /K.
+D1 pin 1 conectado a /A.
+Se actualizaron los metadatos de unidad de D1.
+Agregado D2 (huella 'LED_SMD:LED_0805_2012Metric').
+Indicador de referencia cambiado de REF** a D2.
+Valor D2 cambiado de LED_0805_2012Metric a LED.
+Asociación de símbolos D2 actualizada de  a /3266174d-446a-4e42-9721-3d094dc71519.
+Actualizar campos D2.
+Se actualizó el nombre de la hoja D2 a '/'.
+Se actualizó el archivo de hoja D2 a 'holapcb.kicad_sch'.
+Se actualizaron los filtros de huella de D2 a 'LED* LED_SMD:* LED_THT:*'.
+D2 pin 1 conectado a /A.
+D2 pin 2 conectado a Net-(D2-A).
+Se actualizaron los metadatos de unidad de D2.
+Agregado R1 (huella 'Resistor_SMD:R_0805_2012Metric').
+Indicador de referencia cambiado de REF** a R1.
+Valor R1 cambiado de R_0805_2012Metric a R.
+Asociación de símbolos R1 actualizada de  a /12147532-0c95-4715-ba7d-9b56e8136dfc.
+Actualizar campos R1.
+Se actualizó el nombre de la hoja R1 a '/'.
+Se actualizó el archivo de hoja R1 a 'holapcb.kicad_sch'.
+Se actualizaron los filtros de huella de R1 a 'R_*'.
+R1 pin 2 conectado a Net-(BT2-+).
+R1 pin 1 conectado a /K.
+Se actualizaron los metadatos de unidad de R1.
+Agregado BT2 (huella 'Battery:BatteryHolder_Keystone_1058_1x2032').
+Agregado R2 (huella 'Resistor_SMD:R_0805_2012Metric').
+Indicador de referencia cambiado de REF** a R2.
+Valor R2 cambiado de R_0805_2012Metric a R.
+Asociación de símbolos R2 actualizada de  a /6f785ab6-ccac-4e62-8e16-68852df6e4ad.
+Actualizar campos R2.
+Se actualizó el nombre de la hoja R2 a '/'.
+Se actualizó el archivo de hoja R2 a 'holapcb.kicad_sch'.
+Se actualizaron los filtros de huella de R2 a 'R_*'.
+R2 pin 2 conectado a Net-(D2-A).
+R2 pin 1 conectado a Net-(BT2-+).
+Se actualizaron los metadatos de unidad de R2.
+Indicador de referencia cambiado de REF** a BT2.
+Agregado SW2 (huella 'Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG').
+Indicador de referencia cambiado de REF** a SW2.
+Valor SW2 cambiado de SW_Push_1P1T_NO_CK_KSC6xxG a SW_DPST_x2.
+Asociación de símbolos SW2 actualizada de  a /cbed28a4-9dc6-49e6-a0ac-6a41bded1d88.
+Actualizar campos SW2.
+Se actualizó el nombre de la hoja SW2 a '/'.
+Se actualizó el archivo de hoja SW2 a 'holapcb.kicad_sch'.
+SW2 pin 1 conectado a /A.
+SW2 pin 1 conectado a /A.
+SW2 pin 2 conectado a Net-(BT2--).
+SW2 pin 2 conectado a Net-(BT2--).
+Se actualizaron los metadatos de unidad de SW2.
+
+
+Info: Número de avisos: 0, errores: 0.

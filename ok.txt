@@ -1,0 +1,11 @@
+Trazado a 'C:\Users\Olga Ramírez\Documents\holapcb\holapcb-F_Cu.gbr'.
+Trazado a 'C:\Users\Olga Ramírez\Documents\holapcb\holapcb-B_Cu.gbr'.
+Trazado a 'C:\Users\Olga Ramírez\Documents\holapcb\holapcb-F_Paste.gbr'.
+Trazado a 'C:\Users\Olga Ramírez\Documents\holapcb\holapcb-B_Paste.gbr'.
+Trazado a 'C:\Users\Olga Ramírez\Documents\holapcb\holapcb-F_Silkscreen.gbr'.
+Trazado a 'C:\Users\Olga Ramírez\Documents\holapcb\holapcb-B_Silkscreen.gbr'.
+Trazado a 'C:\Users\Olga Ramírez\Documents\holapcb\holapcb-F_Mask.gbr'.
+Trazado a 'C:\Users\Olga Ramírez\Documents\holapcb\holapcb-B_Mask.gbr'.
+Trazado a 'C:\Users\Olga Ramírez\Documents\holapcb\holapcb-Edge_Cuts.gbr'.
+Archivo de trabajo Gerber 'C:\Users\Olga Ramírez\Documents\holapcb\holapcb-job.gbrjob' creado.
+Info: Listo.
